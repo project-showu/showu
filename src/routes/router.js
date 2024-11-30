@@ -271,7 +271,7 @@ const router = createBrowserRouter([
       {
         path : '/vod/play',
         element : <PlayContainer/>
-      }
+      },
 
     ]
   },
